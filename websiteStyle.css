@@ -1,0 +1,80 @@
+body
+{
+	background: url("doe iets.jpg");
+    background-size: 1600px 1600px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+	font-family: Calibri ;
+	font-size: 15px ;
+}
+
+h1
+{
+	
+}
+
+h2
+{
+	
+}
+
+hr
+{
+height: 1px;
+border-width: 60%;
+border-color: Gainsboro  ;
+background-color:  blue   ;
+}
+
+
+a:link, a:visited {
+    background-color: cyan  ;
+    color: black;
+    padding: 10px 30px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+	
+#divalgemeen {
+	margin				: auto;
+	border				: 2px solid black;
+	float				: left;
+	width				: 90%;
+	height				: 50% ;
+}
+#divlinks
+{
+	float			:	left;	
+	width:			:   45%;
+	margin			:	1%;
+	background-color	: blue;
+	height				: 530px;
+}
+#divrechts
+{
+	float				: right;
+	width			:	25%;
+	margin			: 	1%;
+	background-color	: #FFFF40;
+	height				: 530px;
+}
+table, th, td
+{
+border-collapse: collapse;
+border: 2px solid black;
+}
+table
+{
+	float: 	left;
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+.rechtertabel
+{
+	text-align: center;
+}
+    background-color: Gainsboro  ;
+
